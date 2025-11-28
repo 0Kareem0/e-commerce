@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* App base styles (optional) */
+html, body, #root { height: 100%; }
