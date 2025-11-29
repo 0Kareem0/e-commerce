@@ -282,7 +282,7 @@ export default function SkincareHomepage() {
                 className="text-2xl font-light text-gray-900 cursor-pointer"
                 onClick={() => setCurrentPage("home")}
               >
-                LUMINA
+                LUMINA 
               </h1>
               <div className="hidden lg:flex items-center space-x-8">
                 <button
